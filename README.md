@@ -5,7 +5,8 @@
 - 💬 Ask me about Functional Programming, WPF, C#, VB.NET, MySQL, PHP, SQL, ect.
 - 📫 How to reach me: Drop me a message here or contact me in jerome.cafranca@outlook.ph
 
-- ## 📬 Connect with Me
+
+## 📬 Connect with Me
 Let's stay in touch! Reach out to me on these platforms:
 
 [<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />]()
