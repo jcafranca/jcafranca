@@ -1,11 +1,17 @@
 ## 👋 Hi there, I'm Jerome!
 
-- 🔭 Currently working as a Software Programmer at **FPOSI/IDCSI**
-- 🌱 Learning: **React**, **Next.js**, and **Swift**
-- 💬 Ask me about: **Functional Programming**, **WPF**, **C#**, **VB.NET**, **MySQL**, **PHP**, **SQL**, etc.
-- 📫 Reach me at: [jerome.cafranca@outlook.ph](mailto:jerome.cafranca@outlook.ph) or send me a message here on GitHub!
+I’m a passionate Software Programmer currently working at **FPOSI/IDCSI**. I love building efficient, scalable software solutions and continuously improving my craft.
 
----
+### 🔭 What I do
+- Developing and maintaining software applications tailored to business needs
+- Collaborating with cross-functional teams to deliver high-quality products
+- Writing clean, maintainable, and well-documented code
+- Exploring new technologies and best practices to enhance product performance
+
+### 📫 How to reach me
+Feel free to connect or send me an email:  
+📧 [jerome.cafranca@outlook.ph](mailto:jerome.cafranca@outlook.ph)  
+💬 Or send me a message here on GitHub!
 
 ## 📬 Connect with Me
 
@@ -39,7 +45,6 @@ Here’s a snapshot of the technologies I work with:
 [<img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="TypeScript" width="40" height="40"/>](https://www.typescriptlang.org/)
 [<img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="Dart" width="40" height="40"/>](https://dart.dev)
 [<img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" alt="PHP" width="40" height="40"/>](https://www.php.net/)
-[<img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="Dart" width="40" height="40"/>](https://dart.dev)
 
 
 ### 🌐 Web Development
@@ -68,6 +73,8 @@ Here’s a snapshot of the technologies I work with:
 [<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/>](https://firebase.google.com/)
 [<img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="GCP" width="40" height="40"/>](https://cloud.google.com/)
 [<img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="Unity" width="40" height="40"/>](https://unity.com)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>](https://code.visualstudio.com/)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio" width="40" height="40"/>](https://visualstudio.microsoft.com/)
 
 
 ### 📊 Data & AI
