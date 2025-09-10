@@ -64,6 +64,6 @@ Here’s a snapshot of the technologies I work with:
 ## 📊 GitHub Stats
 Get a glimpse of my coding journey:
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=jcafranca&show_icons=true&locale=en&layout=compact&theme=onedark)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jcafranca&show_icons=true&locale=en&theme=onedark)
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=jcafranca&theme=onedark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=jcafranca&show_icons=true&locale=en&layout=compact&theme=system)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jcafranca&show_icons=true&locale=en&theme=system)
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=jcafranca&theme=system)
