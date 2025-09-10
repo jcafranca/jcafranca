@@ -40,7 +40,7 @@ Here’s a snapshot of the technologies I work with:
 [<img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="MATLAB" width="40" height="40"/>](https://www.mathworks.com/)
 
 ### 🌐 Web Development
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwind/tailwind-original-wordmark.svg" alt="Tailwind" width="40" height="40"/>](https://tailwindcss.com/)
+[<img src="https://raw.githubusercontent.com/your-repo/path/to/tailwind-logo.svg" alt="Tailwind" width="40" height="40"/>](https://tailwindcss.com/)
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>](https://www.w3.org/html/)
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>](https://www.w3schools.com/css/)
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="Sass" width="40" height="40"/>](https://sass-lang.com)
@@ -52,7 +52,7 @@ Here’s a snapshot of the technologies I work with:
 ### 🧰 Tools & Platforms
 [<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>](https://git-scm.com/)
 [<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>](https://www.postman.com/)
-[<img src="https://firebase.google.com/images/brand-guidelines/logo-standard.png" alt="Firebase" width="40" height="40"/>](https://firebase.google.com/)
+[<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/>](https://firebase.google.com/)
 [<img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="GCP" width="40" height="40"/>](https://cloud.google.com/)
 [<img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="Unity" width="40" height="40"/>](https://unity.com)
 
