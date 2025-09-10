@@ -40,7 +40,7 @@ Here’s a snapshot of the technologies I work with:
 [<img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="MATLAB" width="40" height="40"/>](https://www.mathworks.com/)
 
 ### 🌐 Web Development
-[<img src="https://raw.githubusercontent.com/your-repo/path/to/tailwind-logo.svg" alt="Tailwind" width="40" height="40"/>](https://tailwindcss.com/)
+[<img src="https://raw.githubusercontent.com/tailwindlabs/tailwindcss/HEAD/.github/logo-light.svg" alt="Tailwind" width="40" height="40"/>](https://tailwindcss.com/)
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>](https://www.w3.org/html/)
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>](https://www.w3schools.com/css/)
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="Sass" width="40" height="40"/>](https://sass-lang.com)
