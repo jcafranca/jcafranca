@@ -40,6 +40,7 @@ Here’s a snapshot of the technologies I work with:
 [<img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="Kotlin" width="40" height="40"/>](https://kotlinlang.org)
 [<img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="Dart" width="40" height="40"/>](https://dart.dev)
 [<img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="MATLAB" width="40" height="40"/>](https://www.mathworks.com/)
+[<img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" alt="PHP" width="40" height="40"/>](https://www.php.net/)
 
 ### 🌐 Web Development
 [<img src="https://raw.githubusercontent.com/tailwindlabs/tailwindcss/HEAD/.github/logo-light.svg" alt="Tailwind" width="40" height="40"/>](https://tailwindcss.com/)
@@ -48,7 +49,7 @@ Here’s a snapshot of the technologies I work with:
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="Sass" width="40" height="40"/>](https://sass-lang.com)
 [<img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="React" width="40" height="40"/>](https://reactjs.org)
 [<img src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" alt="Laravel" width="40" height="40"/>](https://laravel.com)
-[<img src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" alt="CodeIgniter" width="40" height="40"/>](https://codeigniter.com/)
+[<img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="CodeIgniter" width="40" height="40"/>](https://codeigniter.com/)
 [<img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="40" height="40"/>](https://www.djangoproject.com/)
 [<img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="Svelte" width="40" height="40"/>](https://svelte.dev)
 
