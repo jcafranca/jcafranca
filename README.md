@@ -30,8 +30,8 @@ Here’s a snapshot of the technologies I work with:
 
 ### 💻 Programming Languages
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>](https://learn.microsoft.com/en-us/dotnet/csharp/)
-[<img src="https://upload.wikimedia.org/wikipedia/commons/4/47/VB.NET_Logo.svg" alt="VB.NET" width="40" height="40"/>](https://docs.microsoft.com/en-us/dotnet/visual-basic/)
-[<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fspin.atomicobject.com%2Fshareable-customizable-svg-wpf%2F&psig=AOvVaw07pBXmzMtOk5znSUE_Xi4p&ust=1757588141542000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCNiJrK2Ezo8DFQAAAAAdAAAAABAE" alt="WPF" width="40" height="40"/>](https://learn.microsoft.com/en-us/dotnet/desktop/wpf/)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/VB.NET_Logo.svg/1200px-VB.NET_Logo.svg.png" alt="VB.NET" width="40" height="40"/>](https://docs.microsoft.com/en-us/dotnet/visual-basic/)
+[<img src="https://falconsoft-group.com/assets/images/technologies/wpf_vector.svg" alt="WPF" width="40" height="40"/>](https://learn.microsoft.com/en-us/dotnet/desktop/wpf/)
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>](https://www.cplusplus.com/)
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>](https://www.java.com)
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>](https://www.python.org)
