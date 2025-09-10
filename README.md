@@ -31,12 +31,12 @@ Here’s a snapshot of the technologies I work with:
 ### 💻 Programming Languages
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>](https://learn.microsoft.com/en-us/dotnet/csharp/)
 [<img src="https://upload.wikimedia.org/wikipedia/commons/4/47/VB.NET_Logo.svg" alt="VB.NET" width="40" height="40"/>](https://docs.microsoft.com/en-us/dotnet/visual-basic/)
-[<img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Microsoft_WPF_Logo.png" alt="WPF" width="40" height="40"/>](https://learn.microsoft.com/en-us/dotnet/desktop/wpf/)
+[<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fspin.atomicobject.com%2Fshareable-customizable-svg-wpf%2F&psig=AOvVaw07pBXmzMtOk5znSUE_Xi4p&ust=1757588141542000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCNiJrK2Ezo8DFQAAAAAdAAAAABAE" alt="WPF" width="40" height="40"/>](https://learn.microsoft.com/en-us/dotnet/desktop/wpf/)
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>](https://www.cplusplus.com/)
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>](https://www.java.com)
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>](https://www.python.org)
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[<img src="https://www.vectorlogo.zone/logos/typescript/typescript-icon.svg" alt="Kotlin" width="40" height="40"/>](https://typescript.com)
+[<img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="TypeScript" width="40" height="40"/>](https://www.typescriptlang.org/)
 [<img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="Kotlin" width="40" height="40"/>](https://kotlinlang.org)
 [<img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="Dart" width="40" height="40"/>](https://dart.dev)
 [<img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="MATLAB" width="40" height="40"/>](https://www.mathworks.com/)
@@ -48,6 +48,7 @@ Here’s a snapshot of the technologies I work with:
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="Sass" width="40" height="40"/>](https://sass-lang.com)
 [<img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="React" width="40" height="40"/>](https://reactjs.org)
 [<img src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" alt="Laravel" width="40" height="40"/>](https://laravel.com)
+[<img src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" alt="CodeIgniter" width="40" height="40"/>](https://codeigniter.com/)
 [<img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="40" height="40"/>](https://www.djangoproject.com/)
 [<img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="Svelte" width="40" height="40"/>](https://svelte.dev)
 
