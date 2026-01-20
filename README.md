@@ -2,7 +2,7 @@
 
 I’m a passionate Software Programmer currently working at **FPOSI/IDCSI**. I love building efficient, scalable software solutions and continuously improving my craft.
 
-<picture>
+<!-- <picture>
   <source
     media="(prefers-color-scheme: dark)"
     srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
@@ -15,7 +15,7 @@ I’m a passionate Software Programmer currently working at **FPOSI/IDCSI**. I l
     alt="github contribution grid snake animation"
     src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
   />
-</picture>
+</picture> -->
 
 ### 🔭 What I do
 - Developing and maintaining software applications tailored to business needs
@@ -112,6 +112,9 @@ Here’s a snapshot of the technologies I work with:
 
 Get a glimpse of my coding journey:
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=jcafranca&show_icons=true&locale=en&layout=compact&theme=system)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jcafranca&show_icons=true&locale=en&theme=system)
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=jcafranca&theme=system)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=jcafranca&layout=compact&theme=github_dark)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jcafranca&show_icons=true&theme=github_dark)
+
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=jcafranca&theme=github_dark)
+
