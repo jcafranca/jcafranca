@@ -73,11 +73,6 @@ currently: exploring new tech to make products faster and better
 ### 📊 GitHub stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=jcafranca&show_icons=true&hide_border=true&theme=tokyonight&bg_color=0d1117" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=jcafranca&layout=compact&hide_border=true&theme=tokyonight&bg_color=0d1117" alt="Top languages" />
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=jcafranca&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub streak" />
 </p>
 
