@@ -62,11 +62,10 @@ currently: exploring new tech to make products faster and better
 </p>
 <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" /> <img src="https://img.shields.io/badge/Realm-39477F?style=flat-square&logo=realm&logoColor=white" alt="Realm" />
 
-**Tools, Cloud & Design**
+**Tools**
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,postman,firebase,gcp,unity,vscode,visualstudio,figma,ai,ps&perline=11" alt="Tools and design" />
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,visualstudio&perline=11" alt="Tools" />
 </p>
-<img src="https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white" alt="Canva" />
 
 ---
 
